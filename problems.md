@@ -10,4 +10,7 @@ http://stackoverflow.com/questions/24147214/how-to-change-notepad-text-editor-ba
 https://www.youtube.com/watch?v=qscQ3XT6qu4
 
 
+* IntelliJ IDEA -- Publishing a Project on GitHub:
+https://www.jetbrains.com/help/idea/2016.1/publishing-a-project-on-github.html
+
 
