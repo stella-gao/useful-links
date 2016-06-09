@@ -1,12 +1,15 @@
-http://todomvc.com/
+* http://todomvc.com/
 
 
-http://devpost.com/hackathons
+* http://devpost.com/hackathons
 
 
-https://www.kaggle.com/competitions
+* https://www.kaggle.com/competitions
 
 
-https://repl.it/
+* https://repl.it/
+
+
+* https://developer.android.com/training/index.html
 
 
