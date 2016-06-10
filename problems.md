@@ -18,3 +18,5 @@ https://www.jetbrains.com/help/idea/2016.1/publishing-a-project-on-github.html
 https://www.extendoffice.com/documents/excel/3388-excel-import-multiple-text-csv-xml-files.html#a3
 
 
+* Drag and drop batch file for multiple files?
+http://stackoverflow.com/questions/1243240/drag-and-drop-batch-file-for-multiple-files
