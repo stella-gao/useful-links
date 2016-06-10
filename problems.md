@@ -20,3 +20,7 @@ https://www.extendoffice.com/documents/excel/3388-excel-import-multiple-text-csv
 
 * Drag and drop batch file for multiple files?
 http://stackoverflow.com/questions/1243240/drag-and-drop-batch-file-for-multiple-files
+
+
+* BAT CMD 批处理文件脚本总结(中文)
+http://www.cnblogs.com/linglizeng/archive/2010/01/29/Bat-CMD-ChineseVerion.html
