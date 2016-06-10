@@ -14,3 +14,7 @@ https://www.youtube.com/watch?v=qscQ3XT6qu4
 https://www.jetbrains.com/help/idea/2016.1/publishing-a-project-on-github.html
 
 
+* Import or combine multiple xml/csv files into a sheet or a workbook with Kutools for Excel
+https://www.extendoffice.com/documents/excel/3388-excel-import-multiple-text-csv-xml-files.html#a3
+
+
