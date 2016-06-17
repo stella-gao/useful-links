@@ -24,3 +24,6 @@ http://stackoverflow.com/questions/1243240/drag-and-drop-batch-file-for-multiple
 
 * BAT CMD 批处理文件脚本总结(中文)
 http://www.cnblogs.com/linglizeng/archive/2010/01/29/Bat-CMD-ChineseVerion.html
+
+* "Windows found that this file is potentially harmful. To help protect your computer, Windows has blocked access to this file."
+http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-found-that-this-file-is-potentially/cab2b576-2074-4b26-bf54-571fe03f9ef8?auth=1
