@@ -22,6 +22,9 @@ https://www.extendoffice.com/documents/excel/3388-excel-import-multiple-text-csv
 http://stackoverflow.com/questions/1243240/drag-and-drop-batch-file-for-multiple-files
 
 
+* After upgrading to Java8, javac still shows 1.7 http://stackoverflow.com/questions/23202516/after-upgrading-to-java8-javac-still-shows-1-7
+
+
 * BAT CMD 批处理文件脚本总结(中文)
 http://www.cnblogs.com/linglizeng/archive/2010/01/29/Bat-CMD-ChineseVerion.html
 
