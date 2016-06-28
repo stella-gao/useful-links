@@ -38,3 +38,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * Read all files in a folder  http://stackoverflow.com/questions/1844688/read-all-files-in-a-folder
 
+
+* Integrate Mapbox with Tableau  https://www.mapbox.com/help/tableau-integration/
+
