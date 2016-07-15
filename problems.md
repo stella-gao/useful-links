@@ -41,3 +41,5 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * Integrate Mapbox with Tableau  https://www.mapbox.com/help/tableau-integration/
 
+* Import XML data   https://support.office.com/en-us/article/Import-XML-data-6eca3906-d6c9-4f0d-b911-c736da817fa4#_ShowDeveloperTab
+
