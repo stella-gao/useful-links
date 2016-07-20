@@ -48,5 +48,5 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * IF-ELSE in EXCEL   https://exceljet.net/formula/if-else
 
 
-
+* Convert Time to Seconds in Excel http://labman.phys.utk.edu/phys136/laboratories/convert_time_to_seconds_in_excel.htm
 
