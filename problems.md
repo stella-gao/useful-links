@@ -50,3 +50,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * Convert Time to Seconds in Excel http://labman.phys.utk.edu/phys136/laboratories/convert_time_to_seconds_in_excel.htm
 
+
+* Nested If  http://www.excel-easy.com/examples/nested-if.html
+
