@@ -56,3 +56,5 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * How to set up and manage an FTP server on Windows 10  http://www.windowscentral.com/how-set-and-manage-ftp-server-windows-10
 
+
+* Variance analysis charts in Tableau  https://community.tableau.com/thread/191493
