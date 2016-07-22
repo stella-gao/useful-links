@@ -54,3 +54,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * Variance analysis charts in Tableau  https://community.tableau.com/thread/191493
+ 
+
+* Sort Two or More Columns  http://www.contextures.com/xlSort01.html
