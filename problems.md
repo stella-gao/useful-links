@@ -62,4 +62,4 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * Calculation operators and order of operations  https://support.office.com/en-us/article/Calculation-operators-and-order-of-operations-8fdfc95f-62b5-4b8d-8d5a-d089e7dbb8e9
 
 
-*
+* Built-In Excel Functions List  http://www.excelfunctions.net/ExcelFunctions.html
