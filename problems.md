@@ -63,3 +63,9 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * Built-In Excel Functions List  http://www.excelfunctions.net/ExcelFunctions.html
+
+
+* 8 Ways To Start The Control Panel In Windows 10  http://www.digitalcitizen.life/8-ways-start-control-panel-windows-10
+ 
+
+*
