@@ -68,4 +68,4 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * 8 Ways To Start The Control Panel In Windows 10  http://www.digitalcitizen.life/8-ways-start-control-panel-windows-10
  
 
-*
+* How to enable SNMP on Windows 8  https://www.youtube.com/watch?v=RQRCWjVX8do
