@@ -69,3 +69,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
  
 
 * How to enable SNMP on Windows 8  https://www.youtube.com/watch?v=RQRCWjVX8do
+
+
+* SNMP Security Tab  https://technet.microsoft.com/en-us/library/cc754924(v=ws.11).aspx
