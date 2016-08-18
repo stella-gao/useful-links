@@ -69,3 +69,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * SNMP Security Tab  https://technet.microsoft.com/en-us/library/cc754924(v=ws.11).aspx
+
+
+* How do I create a batch file to search for file(s) with certain extension within a folder?   http://stackoverflow.com/questions/16574921/how-do-i-create-a-batch-file-to-search-for-files-with-certain-extension-within
