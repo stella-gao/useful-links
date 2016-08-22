@@ -75,3 +75,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * Make duplicate rows of every row   http://www.ozgrid.com/forum/showthread.php?t=169565
+
+
+* Excel VBA For: A Step-by-step Tutorial on How to Use the For Loop   https://blog.udemy.com/excel-vba-for-2/
