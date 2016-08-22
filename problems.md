@@ -72,3 +72,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * How do I create a batch file to search for file(s) with certain extension within a folder?   http://stackoverflow.com/questions/16574921/how-do-i-create-a-batch-file-to-search-for-files-with-certain-extension-within
+
+
+* Make duplicate rows of every row   http://www.ozgrid.com/forum/showthread.php?t=169565
