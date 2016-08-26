@@ -78,3 +78,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * Excel VBA For: A Step-by-step Tutorial on How to Use the For Loop   https://blog.udemy.com/excel-vba-for-2/
+
+
+* Converting UTC Times to Local Times   http://excel.tips.net/T003440_Converting_UTC_Times_to_Local_Times.html
