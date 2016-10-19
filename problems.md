@@ -81,3 +81,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * Converting UTC Times to Local Times   http://excel.tips.net/T003440_Converting_UTC_Times_to_Local_Times.html
+
+
+* How to Install Linux on a Chromebook and Unlock Its Full Potential http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343
