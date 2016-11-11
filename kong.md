@@ -1,5 +1,5 @@
 ```
-[Xin.Lenovo-Xin] ➤ ssh -l username kong.njit.edu
+➤ ssh -l username kong.njit.edu
 
 kong-1 username>: ls
 AFS_HOME@  UCS-README
@@ -27,6 +27,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 Anaconda is brought to you by Continuum Analytics.
 Please check out: http://continuum.io/thanks and https://anaconda.org
 >>> exit()
-phi-5 xg54>: qsub                 
+phi-5 username>: qsub                 
 qsub: Command not found.   ##this is similar to sbatch
 ```
