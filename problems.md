@@ -84,3 +84,8 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * How to Install Linux on a Chromebook and Unlock Its Full Potential http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343
+
+
+* ssh remote host identification has changed  http://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed
+
+
