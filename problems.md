@@ -89,3 +89,4 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * ssh remote host identification has changed  http://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed
 
 
+* _tkinter.TclError: no display name and no $DISPLAY environment variable   http://stackoverflow.com/questions/37604289/tkinter-tclerror-no-display-name-and-no-display-environment-variable
