@@ -92,5 +92,7 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * How to use matplotlib for scientific plotting on Linux   http://xmodulo.com/matplotlib-scientific-plotting-linux.html
 
 
+* How to load a model from an HDF5 file in Keras? http://stackoverflow.com/questions/35074549/how-to-load-a-model-from-an-hdf5-file-in-keras
+
 
 * _tkinter.TclError: no display name and no $DISPLAY environment variable   http://stackoverflow.com/questions/37604289/tkinter-tclerror-no-display-name-and-no-display-environment-variable
