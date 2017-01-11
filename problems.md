@@ -96,3 +96,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * _tkinter.TclError: no display name and no $DISPLAY environment variable   http://stackoverflow.com/questions/37604289/tkinter-tclerror-no-display-name-and-no-display-environment-variable
+
+
+* 9 Best File Comparison and Difference (Diff) Tools for Linux    http://www.tecmint.com/best-linux-file-diff-tools-comparison/
