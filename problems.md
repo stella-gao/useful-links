@@ -99,3 +99,8 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 
 * 9 Best File Comparison and Difference (Diff) Tools for Linux    http://www.tecmint.com/best-linux-file-diff-tools-comparison/
+
+
+* Python: invalid syntax in function print()    http://stackoverflow.com/questions/15812739/python-invalid-syntax-in-function-print
+
+
