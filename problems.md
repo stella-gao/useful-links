@@ -104,3 +104,5 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 * Python: invalid syntax in function print()    http://stackoverflow.com/questions/15812739/python-invalid-syntax-in-function-print
 
 
+* NameError: global name 'numpy' is not defined    http://stackoverflow.com/questions/25239016/nameerror-global-name-numpy-is-not-defined
+
