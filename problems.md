@@ -106,3 +106,6 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * NameError: global name 'numpy' is not defined    http://stackoverflow.com/questions/25239016/nameerror-global-name-numpy-is-not-defined
 
+
+* How to convert text files to all upper or lower case  http://linuxcommando.blogspot.com/2008/05/how-to-convert-text-files-to-all-upper.html
+
