@@ -10,6 +10,7 @@ https://brew.sh/
 4. GPU Accelerated Deep Learning on Docker in 10 Minutes
 https://medium.com/@jamescchuang/gpu-accelerated-deep-learning-on-docker-in-10-minutes-76c6eb917496
 
-5. 
+5. Deep Learning with Docker
+https://affinelayer.com/docker/
 
 
