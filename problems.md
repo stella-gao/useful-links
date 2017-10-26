@@ -109,3 +109,5 @@ http://answers.microsoft.com/en-us/windows/forum/windows_7-security/windows-foun
 
 * How to convert text files to all upper or lower case  http://linuxcommando.blogspot.com/2008/05/how-to-convert-text-files-to-all-upper.html
 
+* What's the easiest way to install a missing Perl module?
+https://stackoverflow.com/questions/65865/whats-the-easiest-way-to-install-a-missing-perl-module
