@@ -15,4 +15,6 @@ https://affinelayer.com/docker/
 
 6. How do I fix the GPG error “NO_PUBKEY”? https://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey
 
+7. Commands for NVIDIA install on Ubuntu 16.04    http://christopher5106.github.io/nvidia/2016/12/30/commands-nvidia-install-ubuntu-16-04.html     http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux   
+
 
